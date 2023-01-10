@@ -1,1 +1,1 @@
-# 50ShadesOfGray
+# PythonGraphics_50ShadesOfGray
